@@ -1,0 +1,397 @@
+State,Year,Rainfall_mm,Rainfall_Mapping_Note
+Andaman & Nicobar,2015,3050,direct
+Andaman & Nicobar,2016,3300,direct
+Andaman & Nicobar,2017,3150,direct
+Andaman & Nicobar,2018,3250,direct
+Andaman & Nicobar,2019,3100,direct
+Andaman & Nicobar,2020,3500,direct
+Andaman & Nicobar,2021,3300,direct
+Andaman & Nicobar,2022,3400,direct
+Andaman & Nicobar,2023,3200,direct
+Andaman & Nicobar,2024,2900,direct
+Andaman & Nicobar,2025,3220,direct
+Andhra Pradesh,2015,873,direct
+Andhra Pradesh,2016,929,direct
+Andhra Pradesh,2017,1085,direct
+Andhra Pradesh,2018,880,direct
+Andhra Pradesh,2019,802,direct
+Andhra Pradesh,2020,933,direct
+Andhra Pradesh,2021,721,direct
+Andhra Pradesh,2022,978,direct
+Andhra Pradesh,2023,868,direct
+Andhra Pradesh,2024,791,direct
+Andhra Pradesh,2025,870,direct
+Arunachal Pradesh,2015,2890,direct
+Arunachal Pradesh,2016,3100,direct
+Arunachal Pradesh,2017,2710,direct
+Arunachal Pradesh,2018,2830,direct
+Arunachal Pradesh,2019,2950,direct
+Arunachal Pradesh,2020,3200,direct
+Arunachal Pradesh,2021,2780,direct
+Arunachal Pradesh,2022,3050,direct
+Arunachal Pradesh,2023,2900,direct
+Arunachal Pradesh,2024,2600,direct
+Arunachal Pradesh,2025,1824,direct
+Assam,2015,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2016,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2017,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2018,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2019,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2020,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2021,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2022,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2023,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2024,,UNAVAILABLE_no_isolated_subdivision_figure
+Assam,2025,,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,2015,1008,direct
+Bihar,2016,1172,direct
+Bihar,2017,1089,direct
+Bihar,2018,1103,direct
+Bihar,2019,1042,direct
+Bihar,2020,1410,direct
+Bihar,2021,1010,direct
+Bihar,2022,1155,direct
+Bihar,2023,1200,direct
+Bihar,2024,890,direct
+Bihar,2025,981,direct
+Chandigarh,2015,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2016,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2017,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2018,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2019,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2020,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2021,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2022,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2023,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2024,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chandigarh,2025,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,2015,1148,direct
+Chhattisgarh,2016,1375,direct
+Chhattisgarh,2017,1302,direct
+Chhattisgarh,2018,1330,direct
+Chhattisgarh,2019,1189,direct
+Chhattisgarh,2020,1452,direct
+Chhattisgarh,2021,1200,direct
+Chhattisgarh,2022,1301,direct
+Chhattisgarh,2023,1319,direct
+Chhattisgarh,2024,1045,direct
+Chhattisgarh,2025,1290,direct
+Dadra & Nagar Haveli and Daman & Diu,2015,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2016,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2017,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2018,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2019,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2020,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2021,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2022,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2023,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2024,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Dadra & Nagar Haveli and Daman & Diu,2025,,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,2015,450,direct
+Delhi,2016,820,direct
+Delhi,2017,630,direct
+Delhi,2018,580,direct
+Delhi,2019,470,direct
+Delhi,2020,640,direct
+Delhi,2021,640,direct
+Delhi,2022,500,direct
+Delhi,2023,450,direct
+Delhi,2024,360,direct
+Delhi,2025,470,direct
+Goa,2015,2785,direct
+Goa,2016,3010,direct
+Goa,2017,3250,direct
+Goa,2018,2950,direct
+Goa,2019,2600,direct
+Goa,2020,3400,direct
+Goa,2021,2900,direct
+Goa,2022,3100,direct
+Goa,2023,2800,direct
+Goa,2024,2400,direct
+Goa,2025,2950,direct
+Gujarat,2015,724,direct
+Gujarat,2016,918,direct
+Gujarat,2017,1140,direct
+Gujarat,2018,1030,direct
+Gujarat,2019,839,direct
+Gujarat,2020,1193,direct
+Gujarat,2021,960,direct
+Gujarat,2022,1080,direct
+Gujarat,2023,930,direct
+Gujarat,2024,870,direct
+Gujarat,2025,980,direct
+Haryana,2015,520,direct
+Haryana,2016,607,direct
+Haryana,2017,645,direct
+Haryana,2018,585,direct
+Haryana,2019,480,direct
+Haryana,2020,570,direct
+Haryana,2021,650,direct
+Haryana,2022,490,direct
+Haryana,2023,430,direct
+Haryana,2024,390,direct
+Haryana,2025,470,direct
+Himachal Pradesh,2015,1310,direct
+Himachal Pradesh,2016,1580,direct
+Himachal Pradesh,2017,1450,direct
+Himachal Pradesh,2018,1390,direct
+Himachal Pradesh,2019,1280,direct
+Himachal Pradesh,2020,1620,direct
+Himachal Pradesh,2021,1500,direct
+Himachal Pradesh,2022,1425,direct
+Himachal Pradesh,2023,1300,direct
+Himachal Pradesh,2024,1100,direct
+Himachal Pradesh,2025,1580,direct
+Jammu & Kashmir,2015,620,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2016,740,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2017,690,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2018,710,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2019,660,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2020,780,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2021,730,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2022,680,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2023,640,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2024,570,shared_combined_subdivision_value_not_state_specific
+Jammu & Kashmir,2025,680,shared_combined_subdivision_value_not_state_specific
+Jharkhand,2015,1142,direct
+Jharkhand,2016,1380,direct
+Jharkhand,2017,1150,direct
+Jharkhand,2018,1270,direct
+Jharkhand,2019,1160,direct
+Jharkhand,2020,1520,direct
+Jharkhand,2021,1210,direct
+Jharkhand,2022,1340,direct
+Jharkhand,2023,1280,direct
+Jharkhand,2024,1050,direct
+Jharkhand,2025,1504,direct
+Karnataka,2015,1173,direct
+Karnataka,2016,1290,direct
+Karnataka,2017,1321,direct
+Karnataka,2018,1250,direct
+Karnataka,2019,1130,direct
+Karnataka,2020,1460,direct
+Karnataka,2021,1290,direct
+Karnataka,2022,1350,direct
+Karnataka,2023,1180,direct
+Karnataka,2024,1010,direct
+Karnataka,2025,1250,direct
+Kerala,2015,2726,direct
+Kerala,2016,2980,direct
+Kerala,2017,3150,direct
+Kerala,2018,2890,direct
+Kerala,2019,2550,direct
+Kerala,2020,3200,direct
+Kerala,2021,2850,direct
+Kerala,2022,3100,direct
+Kerala,2023,2780,direct
+Kerala,2024,2350,direct
+Kerala,2025,2900,direct
+Ladakh,2015,620,shared_combined_subdivision_value_not_state_specific
+Ladakh,2016,740,shared_combined_subdivision_value_not_state_specific
+Ladakh,2017,690,shared_combined_subdivision_value_not_state_specific
+Ladakh,2018,710,shared_combined_subdivision_value_not_state_specific
+Ladakh,2019,660,shared_combined_subdivision_value_not_state_specific
+Ladakh,2020,780,shared_combined_subdivision_value_not_state_specific
+Ladakh,2021,730,shared_combined_subdivision_value_not_state_specific
+Ladakh,2022,680,shared_combined_subdivision_value_not_state_specific
+Ladakh,2023,640,shared_combined_subdivision_value_not_state_specific
+Ladakh,2024,570,shared_combined_subdivision_value_not_state_specific
+Ladakh,2025,680,shared_combined_subdivision_value_not_state_specific
+Lakshadweep,2015,1680,direct
+Lakshadweep,2016,1900,direct
+Lakshadweep,2017,1780,direct
+Lakshadweep,2018,1850,direct
+Lakshadweep,2019,1750,direct
+Lakshadweep,2020,2000,direct
+Lakshadweep,2021,1850,direct
+Lakshadweep,2022,1950,direct
+Lakshadweep,2023,1820,direct
+Lakshadweep,2024,1600,direct
+Lakshadweep,2025,1800,direct
+Madhya Pradesh,2015,1002,direct
+Madhya Pradesh,2016,1178,direct
+Madhya Pradesh,2017,1150,direct
+Madhya Pradesh,2018,1243,direct
+Madhya Pradesh,2019,1082,direct
+Madhya Pradesh,2020,1355,direct
+Madhya Pradesh,2021,1180,direct
+Madhya Pradesh,2022,1210,direct
+Madhya Pradesh,2023,1200,direct
+Madhya Pradesh,2024,980,direct
+Madhya Pradesh,2025,1200,direct
+Maharashtra,2015,1042,direct
+Maharashtra,2016,1198,direct
+Maharashtra,2017,1340,direct
+Maharashtra,2018,1150,direct
+Maharashtra,2019,1000,direct
+Maharashtra,2020,1480,direct
+Maharashtra,2021,1250,direct
+Maharashtra,2022,1300,direct
+Maharashtra,2023,1180,direct
+Maharashtra,2024,990,direct
+Maharashtra,2025,1300,direct
+Manipur,2015,1485,direct
+Manipur,2016,1620,direct
+Manipur,2017,1520,direct
+Manipur,2018,1580,direct
+Manipur,2019,1450,direct
+Manipur,2020,1750,direct
+Manipur,2021,1600,direct
+Manipur,2022,1680,direct
+Manipur,2023,1550,direct
+Manipur,2024,1320,direct
+Manipur,2025,1580,direct
+Meghalaya,2015,2600,used_dedicated_subdivision_not_combined
+Meghalaya,2016,2900,used_dedicated_subdivision_not_combined
+Meghalaya,2017,2750,used_dedicated_subdivision_not_combined
+Meghalaya,2018,2850,used_dedicated_subdivision_not_combined
+Meghalaya,2019,2700,used_dedicated_subdivision_not_combined
+Meghalaya,2020,3000,used_dedicated_subdivision_not_combined
+Meghalaya,2021,2800,used_dedicated_subdivision_not_combined
+Meghalaya,2022,2950,used_dedicated_subdivision_not_combined
+Meghalaya,2023,2800,used_dedicated_subdivision_not_combined
+Meghalaya,2024,2500,used_dedicated_subdivision_not_combined
+Meghalaya,2025,2900,used_dedicated_subdivision_not_combined
+Mizoram,2015,1850,direct
+Mizoram,2016,2100,direct
+Mizoram,2017,1920,direct
+Mizoram,2018,2050,direct
+Mizoram,2019,1900,direct
+Mizoram,2020,2250,direct
+Mizoram,2021,2050,direct
+Mizoram,2022,2150,direct
+Mizoram,2023,2050,direct
+Mizoram,2024,1780,direct
+Mizoram,2025,2050,direct
+Nagaland,2015,1780,direct
+Nagaland,2016,1950,direct
+Nagaland,2017,1830,direct
+Nagaland,2018,1890,direct
+Nagaland,2019,1750,direct
+Nagaland,2020,2100,direct
+Nagaland,2021,1900,direct
+Nagaland,2022,2000,direct
+Nagaland,2023,1900,direct
+Nagaland,2024,1650,direct
+Nagaland,2025,1900,direct
+Odisha,2015,1398,direct
+Odisha,2016,1482,direct
+Odisha,2017,1318,direct
+Odisha,2018,1540,direct
+Odisha,2019,1310,direct
+Odisha,2020,1750,direct
+Odisha,2021,1450,direct
+Odisha,2022,1520,direct
+Odisha,2023,1480,direct
+Odisha,2024,1220,direct
+Odisha,2025,1530,direct
+Puducherry,2015,1150,direct
+Puducherry,2016,1250,direct
+Puducherry,2017,1380,direct
+Puducherry,2018,1200,direct
+Puducherry,2019,1050,direct
+Puducherry,2020,1300,direct
+Puducherry,2021,1200,direct
+Puducherry,2022,1350,direct
+Puducherry,2023,1250,direct
+Puducherry,2024,1050,direct
+Puducherry,2025,1250,direct
+Punjab,2015,590,direct
+Punjab,2016,720,direct
+Punjab,2017,680,direct
+Punjab,2018,640,direct
+Punjab,2019,540,direct
+Punjab,2020,680,direct
+Punjab,2021,750,direct
+Punjab,2022,560,direct
+Punjab,2023,490,direct
+Punjab,2024,430,direct
+Punjab,2025,560,direct
+Rajasthan,2015,436,direct
+Rajasthan,2016,580,direct
+Rajasthan,2017,560,direct
+Rajasthan,2018,570,direct
+Rajasthan,2019,410,direct
+Rajasthan,2020,650,direct
+Rajasthan,2021,580,direct
+Rajasthan,2022,510,direct
+Rajasthan,2023,480,direct
+Rajasthan,2024,390,direct
+Rajasthan,2025,480,direct
+Sikkim,2015,2850,direct
+Sikkim,2016,3150,direct
+Sikkim,2017,2950,direct
+Sikkim,2018,3050,direct
+Sikkim,2019,2900,direct
+Sikkim,2020,3300,direct
+Sikkim,2021,3050,direct
+Sikkim,2022,3200,direct
+Sikkim,2023,3000,direct
+Sikkim,2024,2700,direct
+Sikkim,2025,3050,direct
+Tamil Nadu,2015,934,direct
+Tamil Nadu,2016,1020,direct
+Tamil Nadu,2017,1185,direct
+Tamil Nadu,2018,978,direct
+Tamil Nadu,2019,850,direct
+Tamil Nadu,2020,1050,direct
+Tamil Nadu,2021,980,direct
+Tamil Nadu,2022,1100,direct
+Tamil Nadu,2023,1050,direct
+Tamil Nadu,2024,820,direct
+Tamil Nadu,2025,1050,direct
+Telangana,2015,851,direct
+Telangana,2016,1010,direct
+Telangana,2017,980,direct
+Telangana,2018,1020,direct
+Telangana,2019,870,direct
+Telangana,2020,1100,direct
+Telangana,2021,910,direct
+Telangana,2022,1050,direct
+Telangana,2023,960,direct
+Telangana,2024,820,direct
+Telangana,2025,960,direct
+Tripura,2015,1990,direct
+Tripura,2016,2150,direct
+Tripura,2017,2050,direct
+Tripura,2018,2100,direct
+Tripura,2019,2000,direct
+Tripura,2020,2300,direct
+Tripura,2021,2100,direct
+Tripura,2022,2200,direct
+Tripura,2023,2100,direct
+Tripura,2024,1850,direct
+Tripura,2025,2100,direct
+Uttar Pradesh,2015,765.0,averaged_from_2_subdivisions
+Uttar Pradesh,2016,945.0,averaged_from_2_subdivisions
+Uttar Pradesh,2017,855.0,averaged_from_2_subdivisions
+Uttar Pradesh,2018,910.0,averaged_from_2_subdivisions
+Uttar Pradesh,2019,795.0,averaged_from_2_subdivisions
+Uttar Pradesh,2020,985.0,averaged_from_2_subdivisions
+Uttar Pradesh,2021,860.0,averaged_from_2_subdivisions
+Uttar Pradesh,2022,900.0,averaged_from_2_subdivisions
+Uttar Pradesh,2023,940.0,averaged_from_2_subdivisions
+Uttar Pradesh,2024,705.0,averaged_from_2_subdivisions
+Uttar Pradesh,2025,817.0,averaged_from_2_subdivisions
+Uttarakhand,2015,1480,direct
+Uttarakhand,2016,1710,direct
+Uttarakhand,2017,1590,direct
+Uttarakhand,2018,1650,direct
+Uttarakhand,2019,1520,direct
+Uttarakhand,2020,1850,direct
+Uttarakhand,2021,1680,direct
+Uttarakhand,2022,1700,direct
+Uttarakhand,2023,1580,direct
+Uttarakhand,2024,1350,direct
+Uttarakhand,2025,1724,direct
+West Bengal,2015,2015.0,averaged_from_2_subdivisions
+West Bengal,2016,2265.0,averaged_from_2_subdivisions
+West Bengal,2017,2115.0,averaged_from_2_subdivisions
+West Bengal,2018,2205.0,averaged_from_2_subdivisions
+West Bengal,2019,2075.0,averaged_from_2_subdivisions
+West Bengal,2020,2400.0,averaged_from_2_subdivisions
+West Bengal,2021,2210.0,averaged_from_2_subdivisions
+West Bengal,2022,2325.0,averaged_from_2_subdivisions
+West Bengal,2023,2210.0,averaged_from_2_subdivisions
+West Bengal,2024,1940.0,averaged_from_2_subdivisions
+West Bengal,2025,1939.0,averaged_from_2_subdivisions

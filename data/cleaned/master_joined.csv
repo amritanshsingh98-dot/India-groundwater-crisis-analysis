@@ -1,0 +1,212 @@
+State,Recharge_Rainfall_Monsoon,Recharge_Other_Monsoon,Recharge_Rainfall_NonMonsoon,Recharge_Other_NonMonsoon,Total_Recharge,Natural_Discharges,Extractable_Resource,Irrigation,Industrial,Domestic,Total_Extraction,Domestic_Allocation,Net_Availability,Stage_Extraction,Year,Industrial_was_missing,Population,CAGR_2011_2021_pct,Source_Note,Rainfall_mm,Rainfall_Mapping_Note
+Andaman & Nicobar,0.35,0.0,0.02,0.0,0.37,0.04,0.33,0.0,0.0,0.01,0.01,0.01,0.32,2.74,2017,False,401183,0.8825,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3150,direct
+Andhra Pradesh,9.96,5.62,1.21,4.42,21.22,1.07,20.15,7.85,0.14,0.9,8.9,1.48,12.31,44.15,2017,False,52049195,0.8789,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1085,direct
+Arunachal Pradesh,1.89,0.18,0.95,0.01,3.02,0.36,2.67,0.0,0.0,0.01,0.01,0.03,2.64,0.28,2017,False,1492918,1.2739,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2710,direct
+Assam,20.22,0.43,7.28,0.74,28.67,4.42,24.26,1.97,0.06,0.69,2.73,0.79,21.43,11.25,2017,False,33776481,1.3282,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,19.83,3.95,3.14,4.5,31.41,2.43,28.99,10.78,0.66,1.83,13.26,1.83,15.78,45.76,2017,False,113986889,1.5238,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1089,direct
+Chandigarh,0.02,0.01,0.0,0.01,0.04,0.0,0.04,0.0,0.0,0.03,0.03,0.03,0.0,89.0,2017,True,1110905,0.8571,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,7.82,1.36,0.76,1.64,11.57,1.0,10.57,3.98,0.05,0.67,4.7,0.79,5.76,44.43,2017,False,27813333,1.4279,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1302,direct
+Dadra & Nagar Haveli and Daman & Diu,0.06,0.0,0.0,0.01,0.07,0.0,0.07,0.01,0.0,0.01,0.02,0.01,0.04,28.57,2017,True,649965,1.714,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,0.13,0.06,0.03,0.11,0.32,0.02,0.3,0.09,0.02,0.24,0.36,0.29,0.02,119.61,2017,False,19018388,2.1009,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),630,direct
+Goa,0.19,0.03,0.01,0.05,0.27,0.11,0.16,0.02,0.0,0.03,0.05,0.04,0.07,33.5,2017,True,1517916,0.6672,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3250,direct
+Gujarat,15.95,3.4,0.0,3.02,22.37,1.12,21.25,12.84,0.11,0.63,13.58,0.9,7.98,63.89,2017,False,65577027,1.3689,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1140,direct
+Haryana,3.56,2.55,1.03,3.0,10.15,1.01,9.13,11.53,0.34,0.63,12.5,0.72,0.87,136.91,2017,False,27026762,1.0722,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),645,direct
+Himachal Pradesh,0.34,0.02,0.11,0.04,0.51,0.05,0.46,0.2,0.0,0.19,0.39,0.34,0.16,86.37,2017,False,7211212,0.8244,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1450,direct
+Jammu & Kashmir,1.0,0.5,0.88,0.51,2.89,0.29,2.6,0.2,0.07,0.5,0.76,0.5,1.84,29.47,2017,False,13169869,0.8184,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),690,shared_combined_subdivision_value_not_state_specific
+Jharkhand,5.25,0.13,0.41,0.42,6.21,0.52,5.69,0.8,0.22,0.56,1.58,0.56,4.13,27.73,2017,False,36245544,1.5819,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1150,direct
+Karnataka,6.59,4.36,2.67,3.22,16.84,2.05,14.79,9.39,0.0,0.95,10.34,1.14,5.41,69.87,2017,True,64897394,1.0113,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1321,direct
+Kerala,3.91,0.04,0.68,1.13,5.77,0.56,5.21,1.22,0.01,1.44,2.67,1.57,2.41,51.27,2017,False,34427424,0.5032,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3150,direct
+Madhya Pradesh,27.1,1.51,0.82,6.99,36.42,1.95,34.47,17.43,0.22,1.24,18.88,1.72,15.84,54.76,2017,False,79481187,1.5145,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1150,direct
+Maharashtra,20.59,2.29,0.53,8.23,31.64,1.74,29.9,15.1,0.003,1.22,16.33,2.28,12.91,54.62,2017,False,118717646,0.9194,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1340,direct
+Manipur,0.23,0.01,0.17,0.02,0.43,0.04,0.39,0.0,0.0,0.0,0.01,0.04,0.34,1.44,2017,False,2994995,0.7964,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1520,direct
+Meghalaya,1.37,0.01,0.43,0.02,1.83,0.19,1.64,0.03,0.0,0.01,0.04,0.02,1.59,2.28,2017,False,3201999,1.2791,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2750,used_dedicated_subdivision_not_combined
+Mizoram,0.16,0.0,0.05,0.0,0.21,0.02,0.19,0.0,0.0,0.01,0.01,0.01,0.18,3.82,2017,False,1180711,1.23,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1920,direct
+Nagaland,1.65,0.03,0.52,0.0,2.2,0.22,1.98,0.0,0.0,0.02,0.02,0.02,1.96,0.99,2017,False,2084208,0.8713,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1830,direct
+Odisha,10.53,2.34,1.5,2.37,16.74,1.17,15.57,5.28,0.14,1.15,6.57,1.3,8.85,42.18,2017,False,44551107,0.998,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1318,direct
+Punjab,5.54,11.83,1.31,5.25,23.93,2.35,21.58,34.56,0.2,1.01,35.78,1.41,1.09,165.77,2017,False,29158240,0.8325,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),680,direct
+Rajasthan,9.74,0.78,0.24,2.44,13.21,1.22,11.99,14.85,0.0,1.92,16.77,2.67,0.88,139.88,2017,False,74905162,1.489,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),560,direct
+Sikkim,5.2,0.0,0.43,0.0,5.63,4.11,1.52,0.0,0.0,0.0,0.0,0.01,1.51,0.06,2017,False,657204,1.2341,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2950,direct
+Tamil Nadu,6.67,9.41,1.89,2.26,20.22,2.02,18.2,13.06,0.0,1.67,14.73,1.85,5.66,80.94,2017,False,75511539,0.7625,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1185,direct
+Telangana,7.56,1.42,1.88,2.76,13.62,1.25,12.37,7.09,0.0,1.0,8.09,1.39,4.26,65.45,2017,True,37287635,1.059,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),980,direct
+Tripura,0.8,0.06,0.4,0.26,1.53,0.29,1.24,0.02,0.0,0.08,0.1,0.11,1.11,7.88,2017,False,3867631,0.8601,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2050,direct
+Uttar Pradesh,37.73,11.67,1.59,18.93,69.92,4.6,65.32,40.89,0.0,4.95,45.84,5.96,20.36,70.18,2017,True,220622884,1.665,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),855.0,averaged_from_2_subdivisions
+Uttarakhand,1.15,0.93,0.09,0.87,3.04,0.15,2.89,1.3,0.13,0.22,1.64,0.22,1.25,56.83,2017,False,10707039,1.0004,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1590,direct
+West Bengal,18.71,1.51,5.26,3.85,29.33,2.77,26.56,10.84,0.0,1.0,11.84,1.53,14.19,44.6,2017,True,96932368,1.0071,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2115.0,averaged_from_2_subdivisions
+Andaman & Nicobar,0.32,0.0002,0.0,0.0001,0.32,0.03,0.28,0.0001,0.001,0.01,0.01,0.01,0.28,2.6,2020,False,411898,0.8825,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3500,direct
+Andhra Pradesh,8.93,8.54,0.85,5.83,24.15,1.21,22.94,6.6,0.15,0.88,7.63,1.31,15.91,33.26,2020,False,53433741,0.8789,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),933,direct
+Arunachal Pradesh,2.01,0.07,1.11,0.002,3.19,0.27,2.92,0.003,0.0002,0.01,0.01,0.01,2.9,0.36,2020,False,1550703,1.2739,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3200,direct
+Assam,17.92,0.96,7.64,0.53,27.05,5.09,21.97,1.97,0.01,0.6,2.58,0.66,19.33,11.73,2020,False,35140302,1.3282,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,21.02,3.32,1.29,2.42,28.05,2.6,25.46,10.33,0.65,2.04,13.02,2.29,12.23,51.14,2020,False,119277390,1.5238,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1410,direct
+Chandigarh,0.01,0.02,0.005,0.03,0.06,0.01,0.06,0.01,0.002,0.03,0.05,0.03,0.01,80.6,2020,False,1139715,0.8571,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,8.33,1.38,1.11,1.84,12.65,1.11,11.55,4.53,0.1,0.71,5.35,0.84,6.25,46.34,2020,False,29021838,1.4279,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1452,direct
+Dadra & Nagar Haveli and Daman & Diu,0.07,0.0105,0.003,0.021,0.1,0.006,0.1,0.013000000000000001,0.04,0.02,0.06,0.04,0.030199999999999998,60.0,2020,False,683963,1.714,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,0.05,0.13,0.004,0.13,0.32,0.03,0.29,0.07,0.04,0.18,0.29,0.19,0.02,101.4,2020,False,20242393,2.1009,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),640,direct
+Goa,0.34,0.02,0.003,0.04,0.4,0.08,0.32,0.02,0.004,0.05,0.08,0.05,0.24,23.48,2020,False,1548502,0.6672,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3400,direct
+Gujarat,19.59,2.89,0.0,4.32,26.81,1.9,24.91,12.65,0.03,0.62,13.3,0.78,12.52,53.39,2020,False,68307197,1.3689,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1193,direct
+Haryana,3.24,2.81,0.58,2.9,9.53,0.9,8.63,10.47,0.53,0.62,11.61,0.57,0.97,134.56,2020,False,27905482,1.0722,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),570,direct
+Himachal Pradesh,0.66,0.13,0.13,0.14,1.07,0.1,0.97,0.2,0.05,0.1,0.36,0.1,0.62,36.83,2020,False,7391026,0.8244,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1620,direct
+Jammu & Kashmir,0.8,2.04,0.95,0.88,4.68,0.46,4.22,0.2,0.13,0.56,0.89,0.57,3.32,21.03,2020,False,13495870,0.8184,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),780,shared_combined_subdivision_value_not_state_specific
+Jharkhand,4.91,0.43,0.47,0.35,6.15,0.51,5.64,0.93,0.2,0.51,1.64,0.52,4.02,29.13,2020,False,37992954,1.5819,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1520,direct
+Karnataka,7.47,4.68,2.23,3.77,18.16,1.76,16.4,9.6,0.0,1.03,10.63,1.16,7.08,64.85,2020,False,66886273,1.0113,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1460,direct
+Kerala,4.2,0.13,0.46,0.86,5.65,0.53,5.12,1.16,0.01,1.47,2.65,2.25,2.13,51.68,2020,False,34949757,0.5032,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3200,direct
+Ladakh,0.01,0.05,0.02,0.04,0.12,0.01,0.11,0.001,0.0002,0.02,0.02,0.02,0.09,17.9,2020,False,290780,0.6508,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),780,shared_combined_subdivision_value_not_state_specific
+Lakshadweep,0.011,0.0,0.002,0.0,0.01,0.01,0.005,0.0,0.0,0.003,0.003,0.005,0.002,58.47,2020,False,67927,0.5815,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2000,direct
+Madhya Pradesh,27.75,1.6,0.12,6.69,36.16,2.78,33.38,17.33,0.03,1.61,18.97,1.84,15.25,56.82,2020,False,83147277,1.5145,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1355,direct
+Maharashtra,20.66,2.38,0.53,8.45,32.01,1.76,30.25,15.29,0.003,1.34,16.63,1.34,14.2,54.99,2020,False,122022341,0.9194,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1480,direct
+Manipur,0.4,0.001,0.11,0.002,0.51,0.05,0.46,0.003,0.0002,0.02,0.02,0.02,0.44,5.12,2020,False,3067120,0.7964,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1750,direct
+Meghalaya,1.66,0.01,0.36,0.01,2.04,0.22,1.82,0.03,0.0003,0.05,0.08,0.06,1.73,4.22,2020,False,3326450,1.2791,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3000,used_dedicated_subdivision_not_combined
+Mizoram,0.19,0.0,0.03,0.0,0.22,0.02,0.2,0.0,0.0,0.01,0.01,0.01,0.19,3.81,2020,False,1224817,1.23,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2250,direct
+Nagaland,1.08,0.76,0.27,0.06,2.17,0.22,1.95,0.002,3e-05,0.02,0.02,0.02,1.93,1.04,2020,False,2139160,0.8713,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2100,direct
+Odisha,10.26,2.71,1.51,2.6,17.08,1.37,15.71,5.5,0.15,1.21,6.86,1.46,8.74,43.65,2020,False,45898283,0.998,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1750,direct
+Punjab,5.01,10.42,0.95,6.41,22.8,2.2,20.59,32.8,0.0,1.05,33.85,1.08,1.61,164.42,2020,False,29892525,0.8325,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),680,direct
+Rajasthan,8.8,0.58,0.29,2.57,12.24,1.17,11.07,14.37,0.13,2.14,16.63,2.17,0.99,150.22,2020,False,78301276,1.489,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),650,direct
+Sikkim,0.96,0.0,0.0,0.0,0.96,0.1,0.86,0.0,0.002,0.01,0.01,0.01,0.85,0.86,2020,False,681837,1.2341,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3300,direct
+Tamil Nadu,6.83,9.04,1.26,2.45,19.59,1.9,17.69,13.52,0.17,0.99,14.67,1.52,5.65,82.93,2020,False,77252182,0.7625,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1050,direct
+Telangana,7.5,3.29,1.1,4.75,16.63,1.6,15.03,7.13,0.14,0.73,8.01,0.74,7.14,53.32,2020,False,38484907,1.059,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1100,direct
+Tripura,0.85,0.06,0.34,0.22,1.47,0.22,1.24,0.02,0.0002,0.08,0.1,0.09,1.14,7.94,2020,False,3968285,0.8601,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2300,direct
+Uttar Pradesh,37.75,13.16,1.3,19.99,72.2,5.32,66.88,41.29,0.0,4.74,46.03,5.38,21.53,68.83,2020,False,231827355,1.665,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),985.0,averaged_from_2_subdivisions
+Uttarakhand,1.29,0.31,0.1,0.32,2.02,0.17,1.85,0.63,0.09,0.15,0.87,0.16,0.98,46.8,2020,False,11031595,1.0004,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1850,direct
+West Bengal,18.71,1.51,5.26,3.85,29.33,2.77,26.56,10.84,0.27,0.73,11.84,1.53,14.19,44.6,2020,False,99890609,1.0071,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2400.0,averaged_from_2_subdivisions
+Andaman & Nicobar,0.2979,0.0002,0.3203,0.0001,0.6185,0.0618,0.5566,0.0001,0.001,0.0065,0.0075,0.0069,0.5486,1.35,2022,False,415426,0.8825,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3400,direct
+Andhra Pradesh,9.14,9.41,0.91,7.77,27.23,1.36,25.86,6.46,0.16,0.83,7.45,1.09,18.54,28.81,2022,False,54120951,0.8789,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),978,direct
+Arunachal Pradesh,1.96,0.94,1.06,0.56,4.52,0.41,4.07,0.02,0.01,0.01,0.03,0.01,4.03,0.79,2022,False,1595552,1.2739,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3050,direct
+Assam,17.92,1.15,6.52,0.94,26.53,2.56,21.4,2.06,0.01,0.58,2.65,0.62,18.71,12.38,2022,False,35881371,1.3282,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,19.94,7.07,1.14,5.0,33.15,3.1,30.04,10.01,0.35,3.14,13.5,3.41,16.76,44.94,2022,False,123014118,1.5238,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1155,direct
+Chandigarh,0.01,0.01,0.0,0.03,0.05,0.01,0.05,0.01,0.002,0.03,0.04,0.03,0.01,80.99,2022,False,1155523,0.8571,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,8.08,1.8,0.15,2.01,12.04,1.04,11.01,4.62,0.11,0.73,5.46,0.83,5.56,49.58,2022,False,29932001,1.4279,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1301,direct
+Dadra & Nagar Haveli and Daman & Diu,0.097,0.011,0.003,0.021,0.128,0.012,0.11599999999999999,0.013000000000000001,0.145,0.01,0.167,0.036000000000000004,0.01,143.97,2022,False,678743,1.714,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,0.1388,0.0895,0.0094,0.1728,0.4105,0.0411,0.3695,0.0904,0.0007,0.2716,0.3627,0.2878,0.0288,98.1612,2022,False,20927508,2.1009,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),500,direct
+Goa,0.35,0.02,0.0,0.04,0.41,0.08,0.33,0.026,0.004,0.048,0.078,0.05,0.25,23.63,2022,False,1586097,0.6672,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3100,direct
+Gujarat,19.0,2.63,0.0,4.83,26.46,1.88,24.58,12.1,0.16,0.82,13.09,1.04,12.18,53.23,2022,False,70168703,1.3689,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1080,direct
+Haryana,3.15,2.79,0.7,2.83,9.48,0.87,8.61,10.3,0.6,0.65,11.54,0.66,1.04,134.14,2022,False,28554946,1.0722,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),490,direct
+Himachal Pradesh,0.6,0.14,0.14,0.15,1.03,0.09,0.94,0.18,0.05,0.12,0.35,0.12,0.59,37.56,2022,False,7461539,0.8244,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1425,direct
+Jammu & Kashmir,1.16,1.94,1.15,0.64,4.9,0.46,4.44,0.31,0.05,0.71,1.07,0.73,3.35,24.18,2022,False,13684160,0.8184,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),680,shared_combined_subdivision_value_not_state_specific
+Jharkhand,4.92,0.45,0.48,0.36,6.21,0.51,5.69,0.93,0.21,0.65,1.78,0.65,3.92,31.35,2022,False,38871148,1.5819,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1340,direct
+Karnataka,8.83,4.29,1.19,3.43,17.74,1.7,16.04,10.01,0.13,1.09,11.22,1.17,6.34,69.93,2022,False,68043263,1.0113,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1350,direct
+Kerala,4.25,0.15,0.47,0.87,5.74,0.54,5.19,1.17,0.01,1.55,2.73,2.2,2.18,52.56,2022,False,35298783,0.5032,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3100,direct
+Ladakh,0.01,0.05,0.02,0.0,0.08,0.01,0.07,0.00037,0.0002,0.03,0.03,0.03,0.04,41.36,2022,False,295097,0.6508,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),680,shared_combined_subdivision_value_not_state_specific
+Lakshadweep,0.01,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0,0.0,0.0,0.0,61.6,2022,False,68654,0.5815,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1950,direct
+Madhya Pradesh,26.87,1.56,0.11,6.69,35.23,2.66,32.58,17.39,0.17,1.69,19.25,1.88,14.21,59.1,2022,False,85113270,1.5145,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1210,direct
+Maharashtra,20.72,2.43,0.54,8.6,32.29,1.84,30.45,15.29,0.003,1.35,16.65,1.35,14.38,54.68,2022,False,124100413,0.9194,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1300,direct
+Manipur,0.4,0.0,0.11,0.01,0.52,0.05,0.47,0.02,0.0002,0.02,0.04,0.02,0.43,7.95,2022,False,3150912,0.7964,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1680,direct
+Meghalaya,1.29,0.01,0.42,0.0,1.72,0.17,1.51,0.003,0.0007,0.05,0.05,0.06,1.45,3.55,2022,False,3432742,1.2791,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2950,used_dedicated_subdivision_not_combined
+Mizoram,0.19,0.0,0.03,0.0,0.22,0.02,0.2,0.0,0.0,0.01,0.01,0.01,0.19,3.96,2022,False,1251679,1.23,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2150,direct
+Nagaland,0.36,0.33,0.08,0.02,0.79,0.08,0.71,0.002,2e-05,0.02,0.02,0.02,0.69,2.89,2022,False,2204199,0.8713,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2000,direct
+Odisha,10.44,2.82,1.81,2.72,17.79,1.44,16.34,5.83,0.16,1.24,7.23,1.37,9.03,44.25,2022,False,46284847,0.998,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1520,direct
+Punjab,4.67,9.09,0.72,4.46,18.94,1.87,17.07,26.69,0.16,1.17,28.02,1.19,1.57,165.99,2022,False,30504255,0.8325,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),560,direct
+Rajasthan,8.71,0.62,0.2,2.61,12.13,1.17,10.96,14.18,0.14,2.23,16.56,2.28,0.87,151.07,2022,False,80161515,1.489,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),510,direct
+Sikkim,0.1712,0.0039,0.0956,0.0005,0.2712,0.0271,0.2441,0.0089,0.0022,0.0036,0.0147,0.0038,0.2291,6.04,2022,False,696101,1.2341,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3200,direct
+Tamil Nadu,7.42,9.76,1.33,2.59,21.11,2.04,19.09,13.68,0.18,0.57,14.43,1.36,6.42,75.59,2022,False,77872988,0.7625,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1100,direct
+Telangana,7.19,6.66,0.98,6.44,21.27,2.02,19.25,7.257,0.154,0.596,8.0,3.82,11.23,41.6,2022,False,39111503,1.059,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1050,direct
+Tripura,0.81,0.06,0.22,0.22,1.31,0.25,1.06,0.02,0.0007,0.08,0.1,0.09,0.96,9.7,2022,False,4078949,0.8601,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2200,direct
+Uttar Pradesh,35.44,13.96,0.82,21.23,71.45,6.13,65.3,40.72,0.41,5.01,46.14,5.48,19.99,70.66,2022,False,237521027,1.665,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),900.0,averaged_from_2_subdivisions
+Uttarakhand,1.28,0.31,0.1,0.32,2.01,0.16,1.86,0.63,0.12,0.15,0.89,0.15,0.96,48.04,2022,False,11308507,1.0004,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1700,direct
+West Bengal,15.46,1.65,3.04,3.46,23.61,2.19,21.42,8.38,0.14,1.54,10.07,1.76,11.29,47.01,2022,False,101509796,1.0071,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2325.0,averaged_from_2_subdivisions
+Andaman & Nicobar,0.298,0.0002,0.32,0.0001,0.618,0.062,0.557,0.0001,0.001,0.007,0.008,0.007,0.549,1.37,2023,False,415320,0.8825,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3200,direct
+Andhra Pradesh,8.97,9.94,0.85,8.08,27.83,1.39,26.45,6.44,0.14,0.9,7.48,1.25,19.09,28.3,2023,False,54339387,0.8789,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),868,direct
+Arunachal Pradesh,2.11,0.66,1.06,0.81,4.65,0.49,4.16,0.01,0.0003,0.01,0.02,0.01,4.15,0.42,2023,False,1621046,1.2739,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2900,direct
+Assam,19.29,0.81,6.53,0.63,27.26,6.32,20.93,2.06,0.01,0.55,2.63,0.58,18.27,12.54,2023,False,36157817,1.3282,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,20.0,7.72,1.14,5.11,33.96,3.24,30.72,10.13,0.37,3.26,13.75,3.48,17.02,44.76,2023,False,124963748,1.5238,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1200,direct
+Chandigarh,0.01,0.014,0.003,0.027,0.054,0.005,0.048,0.008,0.002,0.026,0.037,0.026,0.012,75.41,2023,False,1161595,0.8571,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,8.39,2.24,0.23,2.49,13.34,1.16,12.18,4.87,0.13,0.75,5.75,0.83,6.51,47.17,2023,False,30436122,1.4279,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1319,direct
+Dadra & Nagar Haveli and Daman & Diu,0.09,0.01,0.003,0.02,0.12,0.01,0.12,0.01,0.14,0.01,0.16,0.03,0.01,133.33,2023,False,662213,1.714,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,0.08,0.09,0.04,0.17,0.38,0.04,0.34,0.08,0.0007,0.26,0.34,0.28,0.03,99.13,2023,False,21190627,2.1009,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),450,direct
+Goa,0.356,0.008,0.003,0.029,0.396,0.079,0.317,0.025,0.005,0.038,0.068,0.04,0.247,21.37,2023,False,1613836,0.6672,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2800,direct
+Gujarat,19.49,2.75,0.0,5.12,27.35,1.95,25.41,12.13,0.17,0.84,13.13,0.8,12.86,51.68,2023,False,71107517,1.3689,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),930,direct
+Haryana,3.18,2.87,0.63,2.87,9.55,0.86,8.69,10.55,0.62,0.62,11.8,0.64,1.0,135.74,2023,False,28909549,1.0722,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),430,direct
+Himachal Pradesh,0.62,0.18,0.13,0.19,1.11,0.1,1.01,0.18,0.05,0.12,0.35,0.12,0.66,34.95,2023,False,7471136,0.8244,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1300,direct
+Jammu & Kashmir,1.17,1.94,1.18,0.64,4.94,0.47,4.46,0.32,0.05,0.71,1.08,0.73,3.36,24.2,2023,False,13762446,0.8184,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),640,shared_combined_subdivision_value_not_state_specific
+Jharkhand,4.96,0.46,0.46,0.37,6.25,0.52,5.73,0.94,0.21,0.65,1.8,0.65,3.95,31.38,2023,False,39150338,1.5819,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1280,direct
+Karnataka,9.22,4.95,1.12,3.64,18.93,1.85,17.08,10.09,0.13,1.1,11.32,1.18,7.29,66.26,2023,False,68527259,1.0113,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1180,direct
+Kerala,4.09,0.14,0.44,0.85,5.53,0.52,5.01,1.12,0.01,1.59,2.73,2.19,2.02,54.55,2023,False,35472796,0.5032,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2780,direct
+Ladakh,0.01,0.05,0.02,0.0,0.09,0.01,0.08,0.0,0.0002,0.03,0.03,0.03,0.05,37.05,2023,False,297542,0.6508,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),640,shared_combined_subdivision_value_not_state_specific
+Lakshadweep,0.011,1e-05,0.003,0.0,0.014,0.008,0.005,0.0,0.0,0.003,0.003,0.003,0.002,61.723,2023,False,68988,0.5815,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1820,direct
+Madhya Pradesh,26.94,1.62,0.13,6.78,35.47,2.62,32.85,17.4,0.17,1.72,19.3,1.88,14.45,58.75,2023,False,85825951,1.5145,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1200,direct
+Maharashtra,20.74,2.62,0.64,8.76,32.76,1.82,30.95,15.28,0.03,1.36,16.66,1.42,14.81,53.83,2023,False,125064028,0.9194,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1180,direct
+Manipur,0.4,0.001,0.11,0.006,0.52,0.05,0.47,0.017,0.0002,0.02,0.04,0.02,0.42,7.99,2023,False,3211419,0.7964,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1550,direct
+Meghalaya,1.32,0.05,0.42,0.04,1.83,0.32,1.51,0.02,0.0003,0.04,0.07,0.05,1.43,4.58,2023,False,3497690,1.2791,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2800,used_dedicated_subdivision_not_combined
+Mizoram,0.19,0.0,0.03,0.0,0.22,0.02,0.2,0.0,0.0,0.01,0.01,0.01,0.19,3.7,2023,False,1263588,1.23,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2050,direct
+Nagaland,0.4,0.12,0.08,0.0039543,0.6,0.06,0.54,0.00227,2e-05,0.02,0.02,0.02,0.52,3.76,2023,False,2251599,0.8713,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1900,direct
+Odisha,10.19,2.89,1.51,2.76,17.35,1.41,15.94,5.96,0.18,1.25,7.39,1.37,8.49,46.33,2023,False,46213470,0.998,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1480,direct
+Puducherry,0.05,0.09,0.01,0.04,0.2,0.02,0.18,0.07,0.01,0.05,0.13,0.05,0.05,70.27,2023,False,1528497,1.5294,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1250,direct
+Punjab,4.72,9.07,0.72,4.33,18.84,1.87,16.98,26.39,0.24,1.18,27.8,1.19,1.82,163.76,2023,False,30871506,0.8325,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),490,direct
+Rajasthan,9.01,0.64,0.19,2.6,12.45,1.2,11.25,14.3,0.13,2.31,16.74,2.31,0.9,148.77,2023,False,80861904,1.489,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),480,direct
+Sikkim,0.166,0.004,0.073,0.0,0.243,0.024,0.219,0.009,0.001,0.002,0.012,0.002,0.206,5.54,2023,False,702000,1.2341,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3000,direct
+Tamil Nadu,7.26,10.36,1.3,2.66,21.59,2.1,19.51,13.48,0.15,0.79,14.42,1.47,6.86,73.91,2023,False,77904721,0.7625,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1050,direct
+Telangana,7.15,7.43,1.0,7.55,23.14,2.22,20.92,7.24,0.35,0.49,8.09,0.7,12.83,38.65,2023,False,39331760,1.059,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),960,direct
+Tripura,0.81,0.16,0.32,0.07,1.36,0.26,1.09,0.03,0.0003,0.08,0.11,0.09,0.98,9.92,2023,False,4156946,0.8601,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2100,direct
+Uttar Pradesh,35.72,14.01,0.78,21.32,71.83,6.26,65.57,40.92,0.44,5.04,46.4,5.42,20.04,70.76,2023,False,239369089,1.665,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),940.0,averaged_from_2_subdivisions
+Uttarakhand,1.31,0.29,0.1,0.32,2.02,0.17,1.85,0.67,0.12,0.17,0.95,0.17,0.89,51.69,2023,False,11477552,1.0004,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1580,direct
+West Bengal,16.91,1.71,3.54,4.13,26.29,2.39,23.9,8.99,0.15,1.57,10.71,1.77,13.07,44.81,2023,False,102126701,1.0071,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2210.0,averaged_from_2_subdivisions
+Andaman & Nicobar,0.2,0.0,0.17,0.0,0.38,0.04,0.34,0.0,0.0,0.01,0.01,0.01,0.33,2.08,2024,False,415213,0.8825,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2900,direct
+Andhra Pradesh,9.0,10.79,0.82,7.18,27.8,1.39,26.41,6.75,0.13,1.0,7.88,1.24,18.83,29.83,2024,False,54558705,0.8789,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),791,direct
+Arunachal Pradesh,2.16,0.27,1.11,0.34,3.88,0.42,3.46,0.01,0.0,0.01,0.01,0.01,3.44,0.39,2024,False,1646948,1.2739,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2600,direct
+Assam,19.45,0.67,6.53,0.56,27.21,6.32,20.89,2.06,0.01,0.56,2.64,0.58,18.23,12.61,2024,False,36436393,1.3282,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,19.54,8.05,1.14,5.42,34.15,3.19,30.95,10.21,0.4,3.48,14.1,3.76,16.7,45.54,2024,False,126944277,1.5238,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),890,direct
+Chandigarh,0.01,0.01,0.0,0.03,0.06,0.01,0.05,0.01,0.0,0.03,0.03,0.03,0.02,66.13,2024,False,1167698,0.8571,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,8.57,3.43,0.15,2.03,14.18,1.26,12.93,5.21,0.14,0.77,6.12,0.84,6.82,47.32,2024,False,30948733,1.4279,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1045,direct
+Dadra & Nagar Haveli and Daman & Diu,0.09,0.01,0.0,0.02,0.12,0.01,0.12,0.01,0.14,0.01,0.16,0.03,0.01,133.33,2024,False,646086,1.714,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,0.12,0.09,0.0,0.17,0.38,0.04,0.34,0.08,0.0,0.26,0.34,0.28,0.02,100.77,2024,False,21457054,2.1009,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),360,direct
+Goa,0.35,0.01,0.0,0.03,0.38,0.08,0.31,0.03,0.0,0.04,0.07,0.04,0.24,22.91,2024,False,1642061,0.6672,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2400,direct
+Gujarat,19.58,2.79,0.0,5.21,27.58,2.0,25.58,12.81,0.21,0.85,13.86,0.92,12.38,54.21,2024,False,72058893,1.3689,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),870,direct
+Haryana,3.26,3.51,0.67,2.86,10.32,0.96,9.36,11.47,0.58,0.67,12.72,0.68,1.1,135.96,2024,False,29268556,1.0722,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),390,direct
+Himachal Pradesh,0.61,0.18,0.13,0.2,1.11,0.1,1.01,0.19,0.06,0.12,0.36,0.12,0.65,35.48,2024,False,7480745,0.8244,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1100,direct
+Jammu & Kashmir,1.19,0.35,0.85,0.15,2.55,0.25,2.3,0.13,0.02,0.37,0.51,0.37,1.79,22.28,2024,False,13841179,0.8184,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),570,shared_combined_subdivision_value_not_state_specific
+Jharkhand,4.98,0.46,0.47,0.37,6.28,0.52,5.76,0.94,0.22,0.65,1.81,0.65,3.96,31.43,2024,False,39431534,1.5819,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1050,direct
+Karnataka,8.79,5.01,1.23,3.7,18.74,1.86,16.88,10.15,0.19,1.22,11.55,1.28,7.1,68.44,2024,False,69014697,1.0113,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1010,direct
+Kerala,4.19,0.13,0.49,0.85,5.67,0.54,5.13,1.12,0.01,1.63,2.76,2.14,2.12,53.78,2024,False,35647667,0.5032,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2350,direct
+Ladakh,0.0,0.05,0.01,0.0,0.07,0.01,0.06,0.0,0.0,0.02,0.02,0.02,0.04,30.93,2024,False,300008,0.6508,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),570,shared_combined_subdivision_value_not_state_specific
+Lakshadweep,0.01,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0,0.0,0.0,0.0,61.32,2024,False,69324,0.5815,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1600,direct
+Madhya Pradesh,27.0,1.68,0.17,7.04,35.9,1.91,33.99,17.9,0.2,1.76,19.85,1.88,15.02,58.4,2024,False,86544600,1.5145,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),980,direct
+Maharashtra,20.69,2.76,0.73,8.85,33.03,1.89,31.15,15.07,0.03,1.4,16.5,1.46,15.09,52.99,2024,False,126035126,0.9194,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),990,direct
+Manipur,0.4,0.001,0.11,0.006,0.52,0.05,0.47,0.017,0.0002,0.02,0.04,0.02,0.43,8.0,2024,False,3273087,0.7964,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1320,direct
+Meghalaya,1.35,0.06,0.42,0.04,1.86,0.33,1.53,0.02,0.0,0.05,0.07,0.05,1.48,4.6,2024,False,3563867,1.2791,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2500,used_dedicated_subdivision_not_combined
+Mizoram,0.18,0.0,0.03,0.0,0.21,0.02,0.19,0.0,0.0,0.01,0.01,0.01,0.18,3.95,2024,False,1275611,1.23,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1780,direct
+Nagaland,0.41,0.12,0.08,0.01,0.62,0.05,0.56,0.01,0.0,0.02,0.03,0.02,0.53,4.72,2024,False,2300017,0.8713,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1650,direct
+Odisha,10.18,2.94,1.51,2.84,17.46,1.42,16.04,6.28,0.19,1.26,7.74,1.37,8.26,48.23,2024,False,46142204,0.998,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1220,direct
+Puducherry,0.05,0.09,0.01,0.03,0.19,0.02,0.17,0.07,0.01,0.05,0.13,0.05,0.04,75.91,2024,False,1567970,1.5294,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1050,direct
+Punjab,4.79,9.01,0.72,4.37,19.19,1.87,17.63,26.24,0.25,1.18,27.66,1.19,2.07,156.87,2024,False,31243178,0.8325,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),430,direct
+Rajasthan,9.08,0.65,0.22,2.62,12.58,1.2,11.37,14.51,0.13,2.41,17.05,2.41,0.88,149.86,2024,False,81568411,1.489,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),390,direct
+Sikkim,0.18,0.0,0.06,0.0,0.24,0.02,0.22,0.01,0.0,0.0,0.01,0.0,0.2,5.85,2024,False,707950,1.2341,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2700,direct
+Tamil Nadu,7.42,10.18,1.2,2.71,21.51,2.07,19.46,13.51,0.14,0.8,14.45,1.45,6.76,74.26,2024,False,77936468,0.7625,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),820,direct
+Telangana,6.88,6.63,0.94,5.96,20.4,1.96,18.44,7.59,0.37,0.51,8.47,0.74,9.95,45.91,2024,False,39553257,1.059,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),820,direct
+Tripura,1.03,0.16,0.2,0.07,1.45,0.27,1.18,0.03,0.0,0.08,0.11,0.09,1.07,9.48,2024,False,4236434,0.8601,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1850,direct
+Uttar Pradesh,36.43,14.12,0.81,21.47,72.84,6.46,66.38,41.15,0.53,5.08,46.76,5.38,20.52,70.45,2024,False,241231531,1.665,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),705.0,averaged_from_2_subdivisions
+Uttarakhand,1.53,0.21,0.14,0.26,2.14,0.17,1.96,0.74,0.13,0.18,1.05,0.26,0.83,53.54,2024,False,11649124,1.0004,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1350,direct
+West Bengal,16.65,1.71,3.4,4.13,25.89,2.33,23.56,8.99,0.17,1.59,10.75,1.77,12.72,45.63,2024,False,102747354,1.0071,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1940.0,averaged_from_2_subdivisions
+Andaman & Nicobar,0.2,0.0,0.19,0.0,0.38,0.04,0.35,0.0,0.0,0.01,0.01,0.01,0.34,2.27,2025,False,415107,0.8825,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3220,direct
+Andhra Pradesh,8.83,9.4,0.97,7.15,26.34,1.32,25.02,6.76,0.14,0.99,7.88,1.29,17.37,31.51,2025,False,54778908,0.8789,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),870,direct
+Arunachal Pradesh,2.12,0.26,0.98,0.33,3.69,0.4,3.29,0.01,0.0,0.01,0.01,0.01,3.27,0.41,2025,False,1673264,1.2739,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1824,direct
+Assam,17.95,0.96,6.53,0.93,26.36,6.08,20.29,2.35,0.01,0.57,2.93,0.69,17.23,14.45,2025,False,36717115,1.3282,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_isolated_subdivision_figure
+Bihar,19.46,8.32,1.14,5.6,34.51,3.19,31.32,10.51,0.41,3.55,14.47,4.85,15.76,46.2,2025,False,128956195,1.5238,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),981,direct
+Chandigarh,0.01,0.01,0.0,0.03,0.05,0.01,0.05,0.01,0.0,0.02,0.03,0.03,0.01,67.0,2025,False,1173833,0.8571,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Chhattisgarh,8.62,3.51,0.15,2.03,14.3,1.23,13.07,5.35,0.15,0.79,6.3,0.88,6.8,48.18,2025,False,31469977,1.4279,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1290,direct
+Dadra & Nagar Haveli and Daman & Diu,0.07,0.02,0.0,0.03,0.13,0.01,0.12,0.01,0.02,0.02,0.05,0.05,0.05,41.67,2025,False,630351,1.714,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),,UNAVAILABLE_no_subdivision_for_this_small_UT
+Delhi,0.11,0.09,0.01,0.17,0.38,0.04,0.35,0.08,0.0,0.23,0.32,0.27,0.03,92.1,2025,False,21726831,2.1009,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),470,direct
+Goa,0.34,0.01,0.0,0.03,0.38,0.08,0.31,0.03,0.0,0.04,0.07,0.05,0.23,23.3,2025,False,1670779,0.6672,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2950,direct
+Gujarat,19.51,2.82,0.0,5.25,27.58,1.97,25.61,13.25,0.2,0.88,14.33,1.16,11.97,55.95,2025,False,73022997,1.3689,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),980,direct
+Haryana,3.21,3.55,0.63,2.88,10.27,0.97,9.3,11.42,0.58,0.72,12.72,0.74,1.11,136.75,2025,False,29632021,1.0722,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),470,direct
+Himachal Pradesh,0.61,0.18,0.13,0.2,1.12,0.11,1.01,0.19,0.07,0.13,0.39,0.13,0.62,38.5,2025,False,7490366,0.8244,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1580,direct
+Jammu & Kashmir,1.02,0.35,0.78,0.15,2.3,0.23,2.07,0.13,0.02,0.37,0.51,0.37,1.56,24.73,2025,False,13920363,0.8184,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),680,shared_combined_subdivision_value_not_state_specific
+Jharkhand,4.83,0.47,0.46,0.38,6.15,0.51,5.63,0.94,0.23,0.69,1.85,0.69,3.79,32.89,2025,False,39714750,1.5819,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1504,direct
+Karnataka,9.02,5.37,1.23,3.66,19.27,1.86,17.41,10.16,0.21,1.21,11.58,1.48,7.32,66.49,2025,False,69505603,1.0113,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1250,direct
+Kerala,4.07,0.17,0.32,0.9,5.45,0.52,4.93,1.18,0.01,1.28,2.46,1.36,2.38,49.95,2025,False,35823400,0.5032,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2900,direct
+Ladakh,0.0,0.05,0.01,0.0,0.07,0.01,0.06,0.0,0.0,0.02,0.02,0.02,0.04,30.93,2025,False,302494,0.6508,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),680,shared_combined_subdivision_value_not_state_specific
+Lakshadweep,0.01,0.0,0.0,0.0,0.01,0.01,0.01,0.0,0.0,0.0,0.0,0.0,0.0,57.79,2025,False,69661,0.5815,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1800,direct
+Madhya Pradesh,26.99,1.75,0.11,7.22,36.07,1.92,34.15,18.27,0.21,1.79,20.26,2.37,14.51,59.32,2025,False,87269266,1.5145,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1200,direct
+Maharashtra,20.63,3.08,0.99,9.19,33.89,1.89,31.99,15.13,0.04,1.4,16.57,1.46,15.81,51.79,2025,False,127013763,0.9194,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1300,direct
+Manipur,0.4,0.001,0.07,0.016,0.44,0.04,0.4,0.017,0.0008,0.02,0.04,0.02,0.36,9.09,2025,False,3335940,0.7964,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1580,direct
+Meghalaya,1.34,0.04,0.42,0.03,1.84,0.3,1.54,0.03,0.0,0.05,0.08,0.07,1.44,5.24,2025,False,3631295,1.2791,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2900,used_dedicated_subdivision_not_combined
+Mizoram,0.18,0.0,0.04,0.0,0.21,0.02,0.19,0.0,0.0,0.01,0.01,0.01,0.18,4.03,2025,False,1287748,1.23,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2050,direct
+Nagaland,0.39,0.07,0.09,0.01,0.55,0.05,0.5,0.01,0.0,0.02,0.02,0.02,0.48,4.72,2025,False,2349477,0.8713,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1900,direct
+Odisha,10.11,2.96,1.51,2.86,17.44,1.42,16.02,6.32,0.21,1.28,7.81,2.36,7.97,48.75,2025,False,46071047,0.998,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1530,direct
+Puducherry,0.05,0.09,0.01,0.04,0.19,0.02,0.17,0.07,0.01,0.05,0.13,0.07,0.03,75.98,2025,False,1608462,1.5294,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1250,direct
+Punjab,4.71,8.76,0.72,4.39,18.6,1.82,16.8,24.89,0.25,1.12,26.27,1.16,1.86,156.36,2025,False,31619325,0.8325,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),560,direct
+Rajasthan,9.25,0.72,0.23,2.67,12.87,1.25,11.62,14.46,0.13,2.51,17.1,2.51,0.93,147.11,2025,False,82281092,1.489,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),480,direct
+Sikkim,0.18,0.0,0.06,0.0,0.24,0.02,0.22,0.01,0.0,0.0,0.01,0.0,0.2,5.87,2025,False,713949,1.2341,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),3050,direct
+Tamil Nadu,7.8,10.84,0.62,3.34,22.61,2.17,20.46,14.15,0.25,0.64,15.04,1.35,7.32,73.5,2025,False,77968228,0.7625,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1050,direct
+Telangana,7.34,7.07,0.92,6.6,21.93,2.09,19.84,8.28,0.4,0.59,9.26,0.8,10.67,46.69,2025,False,39776001,1.059,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),960,direct
+Tripura,0.97,0.11,0.2,0.25,1.53,0.29,1.24,0.04,0.0,0.09,0.12,0.1,1.1,10.06,2025,False,4317443,0.8601,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),2100,direct
+Uttar Pradesh,36.83,14.3,0.77,21.49,73.39,6.41,66.97,41.34,0.37,5.18,46.89,5.87,20.53,70.0,2025,False,243108464,1.665,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),817.0,averaged_from_2_subdivisions
+Uttarakhand,1.54,0.2,0.14,0.24,2.13,0.17,1.95,0.74,0.13,0.18,1.05,0.32,0.79,53.92,2025,False,11823260,1.0004,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1724,direct
+West Bengal,16.69,1.68,3.41,4.07,25.85,2.36,23.5,8.98,0.17,1.47,10.62,3.85,12.4,45.19,2025,False,103371780,1.0071,ORGI 2011 Census + ORGI Projection 2011-2036 (piecewise CAGR),1939.0,averaged_from_2_subdivisions
